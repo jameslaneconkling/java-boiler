@@ -1,4 +1,4 @@
-package com.jameslaneconkling;
+package com.jameslaneconkling.project;
 
 import org.junit.Test;
 
